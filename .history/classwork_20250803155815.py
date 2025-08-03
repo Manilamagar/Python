@@ -29,26 +29,8 @@
 
 
 #write a program to check whether a given number is even or odd
-# num = int (input("Enter a number: "))
-# if num % 2 ==0:
-#     print(f"{num} is even")
-# else:
-#     printf(f"{num} is odd")
-
-# write a program to check the mark
-# if mark >=80 distiction, 70<=mark<80 --> first division
-#mark 60 <=mark < 70 -->second devision
-#mark 50 <=mark <60 -->third divison
-#else pass
-num = int(input("Enter the mark: "))
-if num >= 80:
-    print("Distinction")
-elif 70 <= num < 80:
-    print("First Division")
-elif 60 <= num < 70:
-    print("second Division")
-elif 50 <=num <60:
-    print("Third Division")
+num = int (input("Enter a number: "))
+if num % 2 ==0:
+    print(f"{num} is even")
 else:
-    print("pass")
-    
+    printf(f"{num} is odd")

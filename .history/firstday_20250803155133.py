@@ -31,10 +31,6 @@ comment"""
 # a = int(input("Enter the value of a:"))
 # print(a)
 
-# a = 7
-# b = 7
-# print(a>b)
-# print(a)
-
-for i in range(1,10):
-    print (i)
+a = 
+b = 5
+print(a>b)

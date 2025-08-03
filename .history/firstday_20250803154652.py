@@ -25,16 +25,12 @@ comment"""
 # print(type(str(a)))
 
 
-# b = 5.6
-# print(type(b))
+b = 5.6
+print(type(b))
 
-# a = int(input("Enter the value of a:"))
-# print(a)
+a = int(input("Enter the value of a:"))
+print(a)
 
-# a = 7
-# b = 7
-# print(a>b)
-# print(a)
-
-for i in range(1,10):
-    print (i)
+a = 5
+b = 5
+print(a!=b)

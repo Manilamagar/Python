@@ -51,4 +51,3 @@ elif 50 <=num <60:
     print("Third Division")
 else:
     print("pass")
-    

@@ -49,6 +49,4 @@ elif 60 <= num < 70:
     print("second Division")
 elif 50 <=num <60:
     print("Third Division")
-else:
-    print("pass")
     

@@ -42,13 +42,7 @@
 #else pass
 num = int(input("Enter the mark: "))
 if num >= 80:
-    print("Distinction")
+    print(" First Distinction")
 elif 70 <= num < 80:
     print("First Division")
 elif 60 <= num < 70:
-    print("second Division")
-elif 50 <=num <60:
-    print("Third Division")
-else:
-    print("pass")
-    

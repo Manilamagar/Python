@@ -16,25 +16,21 @@ comment"""
 # d = True
 # print(type(a), type(b), type(c), type(d))
 
-# a = 6 +7j
-# print(type(a))
+a = 6 +7j
+print(type(a))
 
-# # type casting 
-# a = 5
-# print(type(a))
-# print(type(str(a)))
+# type casting 
+a = 5
+print(type(a))
+print(type(str(a)))
 
 
-# b = 5.6
-# print(type(b))
+b = 5.6
+print(type(b))
 
-# a = int(input("Enter the value of a:"))
-# print(a)
+a = int(input("Enter the value of a:"))
+print(a)
 
-# a = 7
-# b = 7
-# print(a>b)
-# print(a)
-
-for i in range(1,10):
-    print (i)
+a = 5
+b = 5
+print(a!=b)
