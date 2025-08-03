@@ -4,9 +4,11 @@
 comment"""
 
 #variable declaration
-a = 5
-b = 6
-c = "python"
-print(a,  b, c)
+# a = 5
+# b = 6
+# c = "python"
+# print(a,  b, c)
 
-
+a = 10
+b = "StudyGlancce"
+c = 
