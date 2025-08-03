@@ -25,4 +25,4 @@
 a = int(input("Enter the base value: "))
 b = int(input("Enter the exponent value: "))
 result = a ** b
-print(f"The result of {a} to the power of {b} is: {result}")
+print(f"The result of {a} raised to the power of {b} is: {result}")

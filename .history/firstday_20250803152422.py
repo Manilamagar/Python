@@ -21,12 +21,4 @@ print(type(a))
 
 # type casting 
 a = 5
-print(type(a))
-print(type(str(a)))
-
-
-b = 5.6
-print(type(b))
-
-a = int(input("Enter the value of a:"))
-print(a)
+print

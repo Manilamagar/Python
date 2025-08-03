@@ -16,17 +16,4 @@ print(a,  b, c)
 # d = True
 # print(type(a), type(b), type(c), type(d))
 
-a = 6 +7j
-print(type(a))
-
-# type casting 
-a = 5
-print(type(a))
-print(type(str(a)))
-
-
-b = 5.6
-print(type(b))
-
-a = int(input("Enter the value of a:"))
-print(a)
+a = 6 +

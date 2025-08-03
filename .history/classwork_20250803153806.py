@@ -24,5 +24,4 @@
 # write a program to take the two values from user and print its power
 a = int(input("Enter the base value: "))
 b = int(input("Enter the exponent value: "))
-result = a ** b
-print(f"The result of {a} to the power of {b} is: {result}")
+result 
