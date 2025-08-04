@@ -1,0 +1,3 @@
+#list and tuple
+list = [1, 3, 6, "python", "ai" ]
+print
